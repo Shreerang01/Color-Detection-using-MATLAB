@@ -7,9 +7,10 @@ This color detection model's main goal is to give users a reliable workflow so t
 
 This model's capacity to adjust to real-time photographs from the camera block is one of its unique features. By enabling users to engage with actual data, this improvement improves the model's relevance and application in real-world circumstances. The supplied methodology guarantees a seamless transition from simulation to real-world implementation, which makes it a priceless tool for academics, researchers, and developers who are studying color detection algorithms and how they are used in image processing.
 
-## Schematic
+## Simulation
 
-![Schematics]()
+![MATLAB_XzByZkneBU](https://github.com/Shreerang01/Color-Detection-using-MATLAB/assets/113919844/9fb92702-2bfc-4669-916d-9ab7e274cd25)
+
 
 ## Table of Contents
 
