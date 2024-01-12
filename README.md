@@ -7,15 +7,9 @@ This color detection model's main goal is to give users a reliable workflow so t
 
 This model's capacity to adjust to real-time photographs from the camera block is one of its unique features. By enabling users to engage with actual data, this improvement improves the model's relevance and application in real-world circumstances. The supplied methodology guarantees a seamless transition from simulation to real-world implementation, which makes it a priceless tool for academics, researchers, and developers who are studying color detection algorithms and how they are used in image processing.
 
+## Schematic
 
-
-
-
-
-
-
-
-
+![Schematics]()
 
 ## Table of Contents
 
@@ -26,6 +20,7 @@ This model's capacity to adjust to real-time photographs from the camera block i
 - Contributing
 - Acknowledgements
 - License
+
 ## Installation
 
 ```bash
