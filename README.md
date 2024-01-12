@@ -11,6 +11,7 @@ This model's capacity to adjust to real-time photographs from the camera block i
 
 ![MATLAB_XzByZkneBU](https://github.com/Shreerang01/Color-Detection-using-MATLAB/assets/113919844/9fb92702-2bfc-4669-916d-9ab7e274cd25)
 
+![MATLAB_d1W8rYxqPs](https://github.com/Shreerang01/Color-Detection-using-MATLAB/assets/113919844/8f93a4d4-ee78-41a5-9e2c-9b5d5e84d461)
 
 ## Table of Contents
 
